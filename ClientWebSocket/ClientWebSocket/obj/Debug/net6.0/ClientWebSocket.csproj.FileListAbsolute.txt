@@ -1,0 +1,15 @@
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\bin\Debug\net6.0\ClientWebSocket.exe
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\bin\Debug\net6.0\ClientWebSocket.deps.json
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\bin\Debug\net6.0\ClientWebSocket.runtimeconfig.json
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\bin\Debug\net6.0\ClientWebSocket.dll
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\bin\Debug\net6.0\ClientWebSocket.pdb
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\obj\Debug\net6.0\ClientWebSocket.csproj.AssemblyReference.cache
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\obj\Debug\net6.0\ClientWebSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\obj\Debug\net6.0\ClientWebSocket.AssemblyInfoInputs.cache
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\obj\Debug\net6.0\ClientWebSocket.AssemblyInfo.cs
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\obj\Debug\net6.0\ClientWebSocket.csproj.CoreCompileInputs.cache
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\obj\Debug\net6.0\ClientWebSocket.dll
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\obj\Debug\net6.0\refint\ClientWebSocket.dll
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\obj\Debug\net6.0\ClientWebSocket.pdb
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\obj\Debug\net6.0\ClientWebSocket.genruntimeconfig.cache
+D:\Estudos Dev\ClientWebSocket\ClientWebSocket\obj\Debug\net6.0\ref\ClientWebSocket.dll
